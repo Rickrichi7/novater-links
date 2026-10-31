@@ -18308,5 +18308,495 @@
   "g": "Movies",
   "h": 0,
   "l": "https://archive.org/services/img/lessons-of-darkness-1992"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Ekhon TV",
+  "u": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8",
+  "g": "",
+  "h": 1080,
+  "l": "https://i.imgur.com/tRrDh6z.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Gazi TV",
+  "u": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+  "g": "",
+  "h": 1080,
+  "l": "https://i.imgur.com/2Lzhiq6.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Green TV",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+  "g": "",
+  "h": 1080,
+  "l": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Madani Channel Bangla",
+  "u": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+  "g": "",
+  "h": 1080,
+  "l": "https://i.imgur.com/vIJTVia.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Rajdhani TV",
+  "u": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8",
+  "g": "",
+  "h": 1080,
+  "l": "https://i.imgur.com/MBm2gPz.jpeg"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "T Sports",
+  "u": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
+  "g": "",
+  "h": 1080,
+  "l": "https://i.imgur.com/2JzlorD.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "ATN Bangla",
+  "u": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/K1HmMRz.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Bangla Vision",
+  "u": "https://tvsen5.aynaott.com/banglavision/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/nCWgp38.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Duronto TV",
+  "u": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/gXsddRK.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Maasranga TV",
+  "u": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/uVZJMed.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Matribhumi TV",
+  "u": "http://live.playmax.live/matribhumi/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "NTV",
+  "u": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/l75bDTx.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "RTV",
+  "u": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/yu8ugqt.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Rupashi Bangla TV",
+  "u": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Vokta TV",
+  "u": "https://vokta.raytahost.com/live/voktatv/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/szAGBCU.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Ananda TV",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://i.imgur.com/jkbo7Qe.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Boishakhi TV",
+  "u": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://i.imgur.com/gxL05Y4.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Channel S",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://www.channels.com.bd/storage/project_files/logo/2024-05-14a_n17156821814310.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Movie Bangla",
+  "u": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "My TV",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://i.imgur.com/475qK5T.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "NAN TV",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "News 21 Bangla TV",
+  "u": "http://103.190.133.68:1935/news21live/live/playlist.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://i.imgur.com/ijuJfmd.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Nexus TV",
+  "u": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8",
+  "g": "",
+  "h": 576,
+  "l": "https://i.imgur.com/XcJZKg4.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "DBC News",
+  "u": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+  "g": "",
+  "h": 480,
+  "l": "https://i.imgur.com/Qbt6q4z.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Ekushey TV",
+  "u": "https://ekusheyserver.com/etvlivesn.m3u8",
+  "g": "",
+  "h": 480,
+  "l": "https://i.imgur.com/lRpkGHj.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "ATN Music",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+  "g": "",
+  "h": 360,
+  "l": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Ananda TV",
+  "u": "http://103.99.249.139/anandatv/index.m3u8",
+  "g": "",
+  "h": 480,
+  "l": ""
+ },
+ {
+  "c": "BDIX TV",
+  "n": "ATN Bangla",
+  "u": "http://tvsen5.aynascope.net/atnbangla/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": ""
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Gazi TV",
+  "u": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8",
+  "g": "",
+  "h": 0,
+  "l": ""
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Maasranga TV",
+  "u": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": ""
+ },
+ {
+  "c": "BDIX TV",
+  "n": "RTV",
+  "u": "http://tvsen5.aynascope.net/RtvHD/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": ""
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Duronto TV",
+  "u": "https://box.bbaria.net/DurontoTV/index.m3u8",
+  "g": "",
+  "h": 720,
+  "l": ""
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Asian TV",
+  "u": "https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/k2adSjA.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "ATN News",
+  "u": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/QenemOL.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Bangla TV",
+  "u": "https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/DLGjTfI.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Bijoy TV",
+  "u": "https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/Faetm0C.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "BTV Chattogram",
+  "u": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8",
+  "g": "Bangladesh",
+  "h": 410,
+  "l": "https://i.imgur.com/hvpyuek.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "BTV World",
+  "u": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/sSnrg7o.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Channel 1 News",
+  "u": "https://stream.ottplus.live/live/channel_1_hd_abr/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.postimg.cc/Zqgx8hm1/20260430-184013.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Channel 24",
+  "u": "https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/4JLkaF7.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Channel 9",
+  "u": "https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://www.nineforbrands.com.au/wp-content/uploads/2025/06/9_BLUE.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Channel I",
+  "u": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/X0JJlOX.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Deepto TV",
+  "u": "https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/F62GUqS.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Desh TV",
+  "u": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8",
+  "g": "Bangladesh",
+  "h": 410,
+  "l": "https://i.imgur.com/ItrZok1.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Ekattor TV",
+  "u": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/zoLwwUK.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Global TV",
+  "u": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/z6srIMD.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Independent TV",
+  "u": "https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/POXFhGN.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Jamuna TV",
+  "u": "https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8",
+  "g": "Bangladesh",
+  "h": 410,
+  "l": "https://www.jamuna.tv/uploads/settings/jtv-logo-whitelogo-1-1754573204.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Mohona TV",
+  "u": "https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/E6doEWH.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Nagorik TV",
+  "u": "https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8",
+  "g": "Bangladesh",
+  "h": 480,
+  "l": "https://i.imgur.com/aRDvQpl.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Peace TV Bangla",
+  "u": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+  "g": "Bangladesh",
+  "h": 1080,
+  "l": "https://i.imgur.com/1ztVXUi.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "SA TV",
+  "u": "https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8",
+  "g": "Bangladesh",
+  "h": 1080,
+  "l": "https://i.imgur.com/tL9kxxB.png"
+ },
+ {
+  "c": "BDIX TV",
+  "n": "Somoy TV",
+  "u": "https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8",
+  "g": "Bangladesh",
+  "h": 720,
+  "l": "https://i.imgur.com/i54AQic.png"
+ },
+ {
+  "c": "Game Time",
+  "n": "Esport3",
+  "u": "https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8",
+  "g": "",
+  "l": ""
+ },
+ {
+  "c": "Game Time",
+  "n": "eSportsMaxTV",
+  "u": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
+  "g": "",
+  "l": ""
+ },
+ {
+  "c": "Game Time",
+  "n": "Estrella Games",
+  "u": "https://d3jx4o3w9313un.cloudfront.net/Estrella_Games.m3u8",
+  "g": "",
+  "l": ""
+ },
+ {
+  "c": "Game Time",
+  "n": "Game Show Network",
+  "u": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
+  "g": "",
+  "l": ""
+ },
+ {
+  "c": "Game Time",
+  "n": "Gametoon",
+  "u": "https://webtvstream.bhtelecom.ba/gametoon.m3u8",
+  "g": "",
+  "l": ""
+ },
+ {
+  "c": "Game Time",
+  "n": "Pluto TV ESports",
+  "u": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+  "g": "",
+  "l": ""
+ },
+ {
+  "c": "Game Time",
+  "n": "Game Show Central",
+  "u": "https://pb-bunear28tuvaw.akamaized.net/v1/gsn_gameshowchannnel_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+  "g": "",
+  "h": 720,
+  "l": "https://i.imgur.com/Uuc5h1s.png"
+ },
+ {
+  "c": "Game Time",
+  "n": "Pluto TV Game Shows",
+  "u": "https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8",
+  "g": "",
+  "h": 480,
+  "l": "https://i.imgur.com/JXZEg2e.png"
+ },
+ {
+  "c": "Game Time",
+  "n": "Celebrity Name Game",
+  "u": "https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8",
+  "g": "Series",
+  "h": 1080,
+  "l": "https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png"
  }
 ]
