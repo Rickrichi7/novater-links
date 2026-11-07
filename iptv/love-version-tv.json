@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 108,
-  "latest_version_name": "1.92",
+  "latest_version_code": 110,
+  "latest_version_name": "1.94",
   "apk_url": "https://rickrichi7.github.io/novater-links/iptv/love-iptv-hdr-tv.apk",
   "force_update": false,
-  "min_version_code": 106,
+  "min_version_code": 108,
   "catalog_url": "https://rickrichi7.github.io/novater-links/iptv/love-channels.json"
 }
