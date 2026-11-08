@@ -1,8 +1,8 @@
 {
-  "latest_version_code": 156,
-  "latest_version_name": "2.34",
+  "latest_version_code": 158,
+  "latest_version_name": "2.36",
   "apk_url": "https://rickrichi7.github.io/novater-links/iptv/novater-iptv-tv.apk",
   "force_update": false,
-  "min_version_code": 154,
+  "min_version_code": 156,
   "catalog_url": "https://rickrichi7.github.io/novater-links/iptv/channels.json"
 }
