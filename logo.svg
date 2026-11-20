@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="NOVATER Studio logo">
+  <rect width="512" height="512" fill="#0b0b0f"/>
+  <circle cx="256" cy="256" r="218" fill="none" stroke="#d4af37" stroke-width="6"/>
+  <circle cx="256" cy="256" r="196" fill="none" stroke="#d4af37" stroke-width="2" opacity="0.6"/>
+  <text x="256" y="252" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800" letter-spacing="8" fill="#f5f2ea">NOVA<tspan fill="#d4af37">TER</tspan></text>
+  <text x="256" y="302" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600" letter-spacing="14" fill="#d4af37">STUDIO</text>
+  <text x="256" y="352" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3" fill="#a8a29e">DENMARK</text>
+</svg>

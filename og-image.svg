@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="NOVATER Studio">
+  <rect width="1200" height="630" fill="#0b0b0f"/>
+  <circle cx="600" cy="315" r="260" fill="none" stroke="#d4af37" stroke-width="6"/>
+  <circle cx="600" cy="315" r="238" fill="none" stroke="#d4af37" stroke-width="2" opacity="0.6"/>
+  <text x="600" y="310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="800" letter-spacing="10" fill="#f5f2ea">NOVA<tspan fill="#d4af37">TER</tspan></text>
+  <text x="600" y="372" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600" letter-spacing="18" fill="#d4af37">STUDIO</text>
+  <text x="600" y="428" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4" fill="#a8a29e">Royal faces for your wrist · Honest tech, AI videos &amp; apps · Denmark</text>
+</svg>
